@@ -1,0 +1,6 @@
+In the intensely competitive world of Formula 1, every tenth of a second can determine the outcome of a race, making it essential to have every possible advantage over rivals. One critical aspect is accurately predicting race outcomes, particularly identifying the top 3 finishers. Knowing who is likely to secure a podium position enables teams to better strategize and prepare for future races.
+
+Using the available data, we developed several new features that enhance the accuracy of predicting race outcomes and created various models to forecast the top 3 drivers in any given race. Our analysis revealed that several machine learning models effectively predict podium finishes, with the Random Forest Classifier proving to be the most accurate.
+Data: Overview and Preparation
+
+The provided dataset includes 26,080 race results, each containing 21 attributes. Among these attributes, 12 are numerical, and 9 are categorical. Notably, the original dataset was complete, with no missing data points.
